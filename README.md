@@ -7,4 +7,4 @@
 
 ![Addy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addy-Da-Baddy&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameAddy-Da-Baddy&layout=donut-vertical)](https://github.comAddy-Da-Baddy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy-Da-Baddy&layout=donut-vertical)](https://github.com/Addy-Da-Baddy/github-readme-stats)
