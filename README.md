@@ -5,22 +5,20 @@
 ```js
 import { AIResearcher } from '@adriteyo';
 
-class Bio extends AIResearcher {
+class {
   name     = 'Adriteyo Das';
-  title    = 'AI Researcher';
+  org      =  ['Cryptonite' , 'OpenHorizon']
   location = 'MIT Manipal, India';
-  uptime   = '21 yrs';
 }
 
-class CurrentlyResearching extends AIResearcher {
-  current = ['AI in Cybersecurity', 'AI in Medical Diagnosis'];
+class CurrentlyResearching {
+  current = ['AI','Cybersecurity];
 }
 
-class Skills extends AIResearcher {
-  languages = ['Python', 'C++', 'C', 'Java', 'JavaScript'];
-  backend   = ['Node.js', 'Express', 'MySQL'];
-  tools     = ['Git', 'PyTorch', 'TensorFlow', 'HuggingFace'];
-  lowLevel  = ['Low-Level Programming', 'Systems Programming'];
+class Skills {
+  languages = ['Python', 'C++', 'C', 'Java', 'JavaScript','Rust','x86 Assembly', 'Embedded C'];
+  tools     = ['Git', 'PyTorch', 'TensorFlow', 'HuggingFace', 'Tailwind', 'Langchain', 'Node', 'React];
+  interests  = ['Low-Level Programming', 'Systems Programming', 'Network Programming'];
 }
 ```
 
