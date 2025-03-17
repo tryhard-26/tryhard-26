@@ -5,7 +5,7 @@
 <br><br>
 
 # 💫 About Me:
-I am Adriteyo Das<br>I am engineering student in MIT Manipal<br>My interests lie in AI , Systems Programming and Backend Development<br>I am a Researcher for MIT Manipal and a QGIS Developer for MapMIT, OpenHorizonRobotics.
+I am Adriteyo Das<br>I am engineering student in MIT Manipal<br>My interests lie in AI , Systems Programming and Digitial Forensics <br>I am a Researcher for MIT Manipal and Cryptonite AI, I Play CTFs for Crytponite and am a QGIS Developer for MapMIT
 
 
 ## 🌐 Socials:
