@@ -5,7 +5,18 @@
 <br><br>
 
 # 💫 About Me:
-I am Adriteyo Das<br>I am engineering student in MIT Manipal<br>My interests lie in AI , Systems Programming and Digitial Forensics <br>I am a Researcher for MIT Manipal and Cryptonite AI, I Play CTFs for Crytponite and am a QGIS Developer for MapMIT
+Hey, I’m **Adriteyo Das**, an engineering student at *MIT* (no, not that one).
+
+### Interests:  
+- **Artificial Intelligence (AI)** – because the world needs more vibe-coded apps.  
+- **Cybersecurity**, especially **Digital Forensics** – cuz those vibe coded apps will eventually go into production.  
+
+### Work:  
+- Researcher at **MIT Manipal**, **ISI Kolkata**, **Cryptonite's Research Division**.  
+  - I dive into the realms of **Deep Learning (DL)** and **Reinforcement Learning (RL)** 
+- I also play **Capture The Flag (CTF)** for Cryptonite because sanity is overrated.  
+
+---
 
 
 ## 🌐 Socials:
