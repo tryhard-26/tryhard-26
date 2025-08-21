@@ -12,7 +12,7 @@ Hey, I’m **Adriteyo Das**, an engineering student at *MIT* (no, not that one).
 - **Cybersecurity**, especially **Digital Forensics** – cuz those vibe coded apps will eventually go into production.  
 
 ### Work:  
-- Researcher at **MIT Manipal**, **ISI Kolkata**, **Cryptonite's Research Division**.  
+- Researcher at **MIT Manipal**, **Carnegie Mellon University**, **Cryptonite's Research Division (Head of Research)**.  
   - I dive into the realms of **Deep Learning (DL)** and **Reinforcement Learning (RL)** 
 - I also play **Capture The Flag (CTF)** for Cryptonite because sanity is overrated.  
 
