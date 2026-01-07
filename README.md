@@ -1,6 +1,5 @@
 [![DOOM](https://raw.githubusercontent.com/Kuberwastaken/DoomMe/main/static/start-visual.gif)](https://github.com/Kuberwastaken/DoomMe/blob/main/menu/episode_1.md)
 
-##### DoomMe - Click to Play DOOM in my GitHub README
 
 <br><br>
 
