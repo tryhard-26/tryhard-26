@@ -62,19 +62,19 @@ Hey, I'm **Adriteyo Das**, an engineering student at *MIT* (no, not that one).
 # Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=tryh4rd-26&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=tryhard-26&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tryh4rd-26&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tryhard-26&theme=dark&hide_border=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tryh4rd-26&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tryhard-26&theme=dark&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=tryh4rd-26&theme=github-compact&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=tryhard-26&theme=github-compact&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=tryh4rd-26&theme=darkhub&no-frame=true&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=tryhard-26&theme=darkhub&no-frame=true&margin-w=6)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tryh4rd-26&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tryhard-26&theme=github_dark)
 
-![](https://komarev.com/ghpvc/?username=tryh4rd-26&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=tryhard-26&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
