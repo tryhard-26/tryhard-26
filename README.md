@@ -1,66 +1,87 @@
-[![DOOM](https://raw.githubusercontent.com/Kuberwastaken/DoomMe/main/static/start-visual.gif)](https://github.com/Kuberwastaken/DoomMe/blob/main/menu/episode_1.md)
 
+
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0cmJkenUwcG5oZmEyamZ1Mm9lYWp5NWRjY3BtMXpsNHJzbThpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hUSyfYfkLFQgj0yRrJ/giphy.gif)
 
 <br><br>
 
-# About Me:
-Hey, I'm **Adriteyo Das**, an engineering student at *MIT* (no, not that one).
+---
 
-### Interests:  
-- **Artificial Intelligence (AI)** – because the world needs more vibe-coded apps.  
-- **Cybersecurity**, especially **Digital Forensics** – cuz those vibe coded apps will eventually go into production.  
+Heylo!
 
-### Work:  
-- SEP Intern for JPMorgan&Chase  
-- Researched for Indian Statistical Institute (Kolkata), Xu Labs@Carnegie Mellon University, Team Cryptonite and MIT Manipal
-- Domains: Biomedical Imaging, AI in Cybersecurity, Deep Learning, Malware and Digital Forensics
-- I also play **Capture The Flag (CTF)** for Cryptonite because sanity is overrated.  
+I'm **Adriteyo Das**, a Computer and Communication Engineering student at **MIT Manipal** working across low-level systems, cybersecurity, digital forensics, machine learning, and infrastructure.
+
+I like figuring out how things work and occasionally building things that seemed like a good idea at the time.
 
 ---
 
+### Work
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriteyo-das-90a25b168/) 
+I was a **SEP Intern at JPMorgan Chase & Co.** working in Data Engineering, and have conducted research with the **Indian Statistical Institute, Kolkata** and the **Xu Lab at Carnegie Mellon University**.
 
-# Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Embedded C](https://img.shields.io/badge/embedded%20c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![nVIDIA CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Kafka](https://img.shields.io/badge/kafka-%23ED1C24.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/cloud%20foundry-%2300B1E8.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/puppet-%23FFAE1D.svg?style=for-the-badge&logo=puppet&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%23FDDE00.svg?style=for-the-badge&logo=selenium&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%231D283F.svg?style=for-the-badge&logo=elasticsearch&logoColor=blue)
-![Jaeger](https://img.shields.io/badge/jaeger-%23E73C00.svg?style=for-the-badge&logo=jaeger&logoColor=white)
+I also worked in Research & Development at **Cryptonite, MIT Manipal**, with experience spanning **AI, cybersecurity, digital forensics, malware analysis, computer vision, and systems**. 
 
-# Stats:
+I’m currently an **Incoming Software Engineer at JPMorgan Chase & Co.**
 
+I also used to play CTFs for [**Cryptonite**](https://cryptonitemit.in/)
+
+---
+
+### Socials
+
+[![Email](https://img.shields.io/badge/Email-das.adriteyo26%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.adriteyo26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriteyo%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriteyo-das/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adriteyo--das-black?style=for-the-badge&logo=vercel&logoColor=white)](https://adriteyo-das.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-addyction__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/addyction__/)
+
+### Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-000000?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Spinnaker](https://img.shields.io/badge/Spinnaker-000000?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
+
+# Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=tryhard-26&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -76,12 +97,4 @@ Hey, I'm **Adriteyo Das**, an engineering student at *MIT* (no, not that one).
 
 ![](https://komarev.com/ghpvc/?username=tryhard-26&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
