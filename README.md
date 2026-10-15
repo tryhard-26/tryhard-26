@@ -24,6 +24,12 @@ i also used to play ctfs for [**cryptonite**](https://cryptonitemit.in/)
 
 ---
 
+### contributions
+
+see my open source contributions in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+
+---
+
 ### socials
 
 [![email](https://img.shields.io/badge/Email-das.adriteyo26%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.adriteyo26@gmail.com)
@@ -73,6 +79,11 @@ i also used to play ctfs for [**cryptonite**](https://cryptonitemit.in/)
 ![jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
 
 # stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tryhard-26/tryhard-26/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/tryhard-26/tryhard-26/output/github-snake.svg">
+</picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=tryhard-26&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
