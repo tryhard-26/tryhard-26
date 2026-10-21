@@ -2,10 +2,15 @@
 
 pull requests from [tryhard-26](https://github.com/tryhard-26) and [tryh4rd-26](https://github.com/tryh4rd-26).
 
-## merged (8)
+## merged (13)
 
 | repo | pr | date |
 |---|---|---|
+| [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(ablation): multi-model component ablation study suite and master synthesis](https://github.com/tryhard-26/metra-la/pull/5) | 2026-10-20 |
+| [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(transformer): spatial diffusion, positional encoding, and residual velocity ablation suite](https://github.com/tryhard-26/metra-la/pull/4) | 2026-10-20 |
+| [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(cnn): temporal receptive field dilation schedule and graph diffusion ablation](https://github.com/tryhard-26/metra-la/pull/3) | 2026-10-20 |
+| [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(gnn): Chebyshev polynomial order and dynamic graph ablation suite](https://github.com/tryhard-26/metra-la/pull/2) | 2026-10-20 |
+| [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(eval): in-depth failure case analysis and diurnal regime study](https://github.com/tryhard-26/metra-la/pull/1) | 2026-10-20 |
 | [Z3Prover/z3](https://github.com/Z3Prover/z3) | [Fix FPA/BV model-validation soundness bug for Array + Datatype theories (Fixes #9488)](https://github.com/Z3Prover/z3/pull/9500) | 2026-05-11 |
 | [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp) | [Merge GetCompleteName and GetQualifiedCompleteName into shared helper](https://github.com/compiler-research/CppInterOp/pull/846) | 2026-03-10 |
 | [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp) | [Replace string comparison with AST check in IsBuiltin for std::complex](https://github.com/compiler-research/CppInterOp/pull/842) | 2026-03-07 |
