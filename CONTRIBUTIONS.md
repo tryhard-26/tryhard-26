@@ -2,10 +2,11 @@
 
 pull requests from [tryhard-26](https://github.com/tryhard-26) and [tryh4rd-26](https://github.com/tryh4rd-26).
 
-## merged (13)
+## merged (14)
 
 | repo | pr | date |
 |---|---|---|
+| [tryhard-26/xerxes](https://github.com/tryhard-26/xerxes) | [v0.3.0: fix alias/shell wrapper, faster queries, Apache-2.0](https://github.com/tryhard-26/xerxes/pull/4) | 2026-10-23 |
 | [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(ablation): multi-model component ablation study suite and master synthesis](https://github.com/tryhard-26/metra-la/pull/5) | 2026-10-20 |
 | [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(transformer): spatial diffusion, positional encoding, and residual velocity ablation suite](https://github.com/tryhard-26/metra-la/pull/4) | 2026-10-20 |
 | [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(cnn): temporal receptive field dilation schedule and graph diffusion ablation](https://github.com/tryhard-26/metra-la/pull/3) | 2026-10-20 |
