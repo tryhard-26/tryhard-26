@@ -21,10 +21,11 @@ pull requests from [tryhard-26](https://github.com/tryhard-26) and [tryh4rd-26](
 | [Cryptonite-MIT/dfir-gita](https://github.com/Cryptonite-MIT/dfir-gita) | [Fixes](https://github.com/Cryptonite-MIT/dfir-gita/pull/2) | 2025-10-25 |
 | [Cryptonite-MIT/dfir-gita](https://github.com/Cryptonite-MIT/dfir-gita) | [Added Tutorials on Memory Analysis using Vol3](https://github.com/Cryptonite-MIT/dfir-gita/pull/1) | 2025-10-25 |
 
-## open (9)
+## open (10)
 
 | repo | pr | date |
 |---|---|---|
+| [tryhard-26/autoTEX](https://github.com/tryhard-26/autoTEX) | [Cut agent token use: lean agent, skill cores, pruning](https://github.com/tryhard-26/autoTEX/pull/1) | 2026-10-25 |
 | [mandiant/capa](https://github.com/mandiant/capa) | [perf(rules): optimize ruleset scope partitioning](https://github.com/mandiant/capa/pull/3183) | 2026-10-02 |
 | [mandiant/capa-testfiles](https://github.com/mandiant/capa-testfiles) | [regenerate 7351f-elf feature snapshot after viv elf symbol fix](https://github.com/mandiant/capa-testfiles/pull/330) | 2026-09-28 |
 | [mandiant/capa](https://github.com/mandiant/capa) | [perf(viv): optimize elf symbol resolution](https://github.com/mandiant/capa/pull/3182) | 2026-09-25 |
