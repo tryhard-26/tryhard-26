@@ -2,10 +2,12 @@
 
 pull requests from [tryhard-26](https://github.com/tryhard-26) and [tryh4rd-26](https://github.com/tryh4rd-26).
 
-## merged (14)
+## merged (16)
 
 | repo | pr | date |
 |---|---|---|
+| [tryhard-26/autoTEX](https://github.com/tryhard-26/autoTEX) | [Token libraries: skill token counts and session pruning](https://github.com/tryhard-26/autoTEX/pull/2) | 2026-10-26 |
+| [tryhard-26/autoTEX](https://github.com/tryhard-26/autoTEX) | [Cut agent token use: lean agent, skill cores, pruning](https://github.com/tryhard-26/autoTEX/pull/1) | 2026-10-25 |
 | [tryhard-26/xerxes](https://github.com/tryhard-26/xerxes) | [v0.3.0: fix alias/shell wrapper, faster queries, Apache-2.0](https://github.com/tryhard-26/xerxes/pull/4) | 2026-10-23 |
 | [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(ablation): multi-model component ablation study suite and master synthesis](https://github.com/tryhard-26/metra-la/pull/5) | 2026-10-20 |
 | [tryhard-26/metra-la](https://github.com/tryhard-26/metra-la) | [feat(transformer): spatial diffusion, positional encoding, and residual velocity ablation suite](https://github.com/tryhard-26/metra-la/pull/4) | 2026-10-20 |
@@ -21,11 +23,10 @@ pull requests from [tryhard-26](https://github.com/tryhard-26) and [tryh4rd-26](
 | [Cryptonite-MIT/dfir-gita](https://github.com/Cryptonite-MIT/dfir-gita) | [Fixes](https://github.com/Cryptonite-MIT/dfir-gita/pull/2) | 2025-10-25 |
 | [Cryptonite-MIT/dfir-gita](https://github.com/Cryptonite-MIT/dfir-gita) | [Added Tutorials on Memory Analysis using Vol3](https://github.com/Cryptonite-MIT/dfir-gita/pull/1) | 2025-10-25 |
 
-## open (10)
+## open (9)
 
 | repo | pr | date |
 |---|---|---|
-| [tryhard-26/autoTEX](https://github.com/tryhard-26/autoTEX) | [Cut agent token use: lean agent, skill cores, pruning](https://github.com/tryhard-26/autoTEX/pull/1) | 2026-10-25 |
 | [mandiant/capa](https://github.com/mandiant/capa) | [perf(rules): optimize ruleset scope partitioning](https://github.com/mandiant/capa/pull/3183) | 2026-10-02 |
 | [mandiant/capa-testfiles](https://github.com/mandiant/capa-testfiles) | [regenerate 7351f-elf feature snapshot after viv elf symbol fix](https://github.com/mandiant/capa-testfiles/pull/330) | 2026-09-28 |
 | [mandiant/capa](https://github.com/mandiant/capa) | [perf(viv): optimize elf symbol resolution](https://github.com/mandiant/capa/pull/3182) | 2026-09-25 |
